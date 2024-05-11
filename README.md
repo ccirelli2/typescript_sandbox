@@ -1,2 +1,2 @@
-# typscript_sandbox
+# typescript_sandbox
 sandbox to learn typescript
